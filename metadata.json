@@ -1,0 +1,5 @@
+{
+  "name": "PDF Scrapping by Aitor",
+  "description": "An application that receives a PDF file and uses AI to answer a series of customizable questions based on the document's content. Ideal for analyzing contracts and official documents.",
+  "requestFramePermissions": []
+}
